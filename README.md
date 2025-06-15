@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandoPrestier
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently wwork on angular
 - 📫 How to reach me fernandoprestier@gmail.com
 
 <!---
