@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @FernandoPrestier
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently work on angular
-- 📫 How to reach me fernandoprestier@gmail.com
+Ingeniero en Sistemas Computacionales 
+> Especializado en desarrollo frontend enterprise.
 
-<!---
-FernandoPrestier/FernandoPrestier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+7 años de experiencia desarrollando aplicaciones web 
+- Escalables.
+- Alto rendimiento
+- Reactividad
+- Resposividad.
+- integración de APIs REST.
+- Manejo de estado interno de las aplicaciones.
+
+Pincipales tecnologias: Angular, TypeScript y arquitecturas SPA
